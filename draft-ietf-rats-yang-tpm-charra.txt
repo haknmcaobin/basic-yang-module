@@ -143,7 +143,7 @@ Internet-Draft            YANG-CHARRA for TPMs              January 2020
 
 2.  The YANG Module for Basic Remote Attestation Procedures
 
-   One or more TPM 2.0 MUST be embedded in the composite device that is
+   One or more TPMs MUST be embedded in the composite device that is
    providing attestation evidence via the YANG module defined in this
    document.  The ietf-basic-remote-attestation YANG module enables a
    composite device to take on the role of Claimant and Attester in
@@ -155,7 +155,7 @@ Internet-Draft            YANG-CHARRA for TPMs              January 2020
    YANG client in order to enable a proof-of-freshness with respect to
    the attestation evidence provided by the attester running the YANG
    datastore.  The functions of this YANG module are restricted to 0-1
-   TPM 2.0 per hardware component.
+   TPMs per hardware component.
 
 2.1.  Tree Diagram
 
