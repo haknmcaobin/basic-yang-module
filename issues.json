@@ -1,0 +1,106 @@
+[
+
+  {
+    "url": "https://api.github.com/repos/ietf-rats-wg/basic-yang-module/issues/2",
+    "repository_url": "https://api.github.com/repos/ietf-rats-wg/basic-yang-module",
+    "labels_url": "https://api.github.com/repos/ietf-rats-wg/basic-yang-module/issues/2/labels{/name}",
+    "comments_url": "https://api.github.com/repos/ietf-rats-wg/basic-yang-module/issues/2/comments",
+    "events_url": "https://api.github.com/repos/ietf-rats-wg/basic-yang-module/issues/2/events",
+    "html_url": "https://github.com/ietf-rats-wg/basic-yang-module/pull/2",
+    "id": 572739477,
+    "node_id": "MDExOlB1bGxSZXF1ZXN0MzgxMzc2ODY0",
+    "number": 2,
+    "title": "Fix typo for hash operation type",
+    "user": {
+      "login": "puiterwijk",
+      "id": 967561,
+      "node_id": "MDQ6VXNlcjk2NzU2MQ==",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/967561?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/puiterwijk",
+      "html_url": "https://github.com/puiterwijk",
+      "followers_url": "https://api.github.com/users/puiterwijk/followers",
+      "following_url": "https://api.github.com/users/puiterwijk/following{/other_user}",
+      "gists_url": "https://api.github.com/users/puiterwijk/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/puiterwijk/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/puiterwijk/subscriptions",
+      "organizations_url": "https://api.github.com/users/puiterwijk/orgs",
+      "repos_url": "https://api.github.com/users/puiterwijk/repos",
+      "events_url": "https://api.github.com/users/puiterwijk/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/puiterwijk/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "labels": [
+
+    ],
+    "state": "closed",
+    "locked": false,
+    "assignee": null,
+    "assignees": [
+
+    ],
+    "milestone": null,
+    "comments": 0,
+    "created_at": "2020-02-28T12:56:43Z",
+    "updated_at": "2020-02-28T13:55:27Z",
+    "closed_at": "2020-02-28T13:55:27Z",
+    "author_association": "CONTRIBUTOR",
+    "pull_request": {
+      "url": "https://api.github.com/repos/ietf-rats-wg/basic-yang-module/pulls/2",
+      "html_url": "https://github.com/ietf-rats-wg/basic-yang-module/pull/2",
+      "diff_url": "https://github.com/ietf-rats-wg/basic-yang-module/pull/2.diff",
+      "patch_url": "https://github.com/ietf-rats-wg/basic-yang-module/pull/2.patch"
+    },
+    "body": ""
+  },
+  {
+    "url": "https://api.github.com/repos/ietf-rats-wg/basic-yang-module/issues/1",
+    "repository_url": "https://api.github.com/repos/ietf-rats-wg/basic-yang-module",
+    "labels_url": "https://api.github.com/repos/ietf-rats-wg/basic-yang-module/issues/1/labels{/name}",
+    "comments_url": "https://api.github.com/repos/ietf-rats-wg/basic-yang-module/issues/1/comments",
+    "events_url": "https://api.github.com/repos/ietf-rats-wg/basic-yang-module/issues/1/events",
+    "html_url": "https://github.com/ietf-rats-wg/basic-yang-module/issues/1",
+    "id": 550010777,
+    "node_id": "MDU6SXNzdWU1NTAwMTA3Nzc=",
+    "number": 1,
+    "title": "A minor mistake of duplicate description",
+    "user": {
+      "login": "William-PanWei",
+      "id": 44770431,
+      "node_id": "MDQ6VXNlcjQ0NzcwNDMx",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/44770431?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/William-PanWei",
+      "html_url": "https://github.com/William-PanWei",
+      "followers_url": "https://api.github.com/users/William-PanWei/followers",
+      "following_url": "https://api.github.com/users/William-PanWei/following{/other_user}",
+      "gists_url": "https://api.github.com/users/William-PanWei/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/William-PanWei/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/William-PanWei/subscriptions",
+      "organizations_url": "https://api.github.com/users/William-PanWei/orgs",
+      "repos_url": "https://api.github.com/users/William-PanWei/repos",
+      "events_url": "https://api.github.com/users/William-PanWei/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/William-PanWei/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "labels": [
+
+    ],
+    "state": "open",
+    "locked": false,
+    "assignee": null,
+    "assignees": [
+
+    ],
+    "milestone": null,
+    "comments": 0,
+    "created_at": "2020-01-15T07:22:38Z",
+    "updated_at": "2020-01-15T07:22:38Z",
+    "closed_at": null,
+    "author_association": "NONE",
+    "body": "The description of COSE_Algorithm-value\r\nhttps://github.com/ietf-rats-wg/basic-yang-module/blob/da656b35802d86fcf2caad972b23de5c9cf59986/ietf-tpm-remote-attestation.yang#L247\r\nis the same as that of TPM_ALG_ID-value.\r\nhttps://github.com/ietf-rats-wg/basic-yang-module/blob/da656b35802d86fcf2caad972b23de5c9cf59986/ietf-tpm-remote-attestation.yang#L236"
+  }
+
+]
